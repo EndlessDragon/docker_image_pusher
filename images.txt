@@ -7,3 +7,4 @@ xhofe/alist:latest
 jenkinsci/blueocean
 alpine
 gcr.io/k8s-minikube/kicbase:v0.0.44
+docker
