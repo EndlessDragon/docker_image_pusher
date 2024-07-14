@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 jenkinsci/blueocean
 alpine
+gcr.io/k8s-minikube/kicbase
